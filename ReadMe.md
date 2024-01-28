@@ -16,8 +16,8 @@ id: Central African Rep.
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Central_African_Rep//
-markerFolder: ./Central_African_Rep//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Central African Rep.] 
