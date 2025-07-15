@@ -40,11 +40,18 @@ markerFolder: ./Kémo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Central_African_Rep/Counties/Kémo|Kémo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.public|Kémo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.internal|Kémo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.protect|Kémo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.private|Kémo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.personal|Kémo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Kémo.secret|Kémo.secret]] 
+
+### #is_/same_as :: [Kémo](/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Kémo.md) 
+
+### #is_/same_as :: [Kémo.public](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Kémo.public.md) 
+
+### #is_/same_as :: [Kémo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Kémo.internal.md) 
+
+### #is_/same_as :: [Kémo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Kémo.protect.md) 
+
+### #is_/same_as :: [Kémo.private](/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Kémo.private.md) 
+
+### #is_/same_as :: [Kémo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Kémo.personal.md) 
+
+### #is_/same_as :: [Kémo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Kémo.secret.md)
 

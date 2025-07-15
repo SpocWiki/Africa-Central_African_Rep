@@ -40,11 +40,18 @@ markerFolder: ./Sangha-Mbaéré/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Central_African_Rep/Counties/Sangha-Mbaéré|Sangha-Mbaéré]] 
-- [[../../../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Sangha-Mbaéré.public|Sangha-Mbaéré.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Sangha-Mbaéré.internal|Sangha-Mbaéré.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Sangha-Mbaéré.protect|Sangha-Mbaéré.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Sangha-Mbaéré.private|Sangha-Mbaéré.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Sangha-Mbaéré.personal|Sangha-Mbaéré.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Sangha-Mbaéré.secret|Sangha-Mbaéré.secret]] 
+
+### #is_/same_as :: [Sangha-Mbaéré](/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Sangha-Mbaéré.md) 
+
+### #is_/same_as :: [Sangha-Mbaéré.public](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Sangha-Mbaéré.public.md) 
+
+### #is_/same_as :: [Sangha-Mbaéré.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Sangha-Mbaéré.internal.md) 
+
+### #is_/same_as :: [Sangha-Mbaéré.protect](/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Sangha-Mbaéré.protect.md) 
+
+### #is_/same_as :: [Sangha-Mbaéré.private](/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Sangha-Mbaéré.private.md) 
+
+### #is_/same_as :: [Sangha-Mbaéré.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Sangha-Mbaéré.personal.md) 
+
+### #is_/same_as :: [Sangha-Mbaéré.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Sangha-Mbaéré.secret.md)
 

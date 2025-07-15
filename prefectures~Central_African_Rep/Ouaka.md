@@ -40,11 +40,18 @@ markerFolder: ./Ouaka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Central_African_Rep/Counties/Ouaka|Ouaka]] 
-- [[../../../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Ouaka.public|Ouaka.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Ouaka.internal|Ouaka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Ouaka.protect|Ouaka.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Ouaka.private|Ouaka.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Ouaka.personal|Ouaka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Ouaka.secret|Ouaka.secret]] 
+
+### #is_/same_as :: [Ouaka](/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouaka.md) 
+
+### #is_/same_as :: [Ouaka.public](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouaka.public.md) 
+
+### #is_/same_as :: [Ouaka.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouaka.internal.md) 
+
+### #is_/same_as :: [Ouaka.protect](/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouaka.protect.md) 
+
+### #is_/same_as :: [Ouaka.private](/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouaka.private.md) 
+
+### #is_/same_as :: [Ouaka.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouaka.personal.md) 
+
+### #is_/same_as :: [Ouaka.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouaka.secret.md)
 

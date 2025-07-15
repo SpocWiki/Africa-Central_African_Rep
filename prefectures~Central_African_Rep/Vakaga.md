@@ -40,11 +40,18 @@ markerFolder: ./Vakaga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Central_African_Rep/Counties/Vakaga|Vakaga]] 
-- [[../../../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Vakaga.public|Vakaga.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Vakaga.internal|Vakaga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Vakaga.protect|Vakaga.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Vakaga.private|Vakaga.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Vakaga.personal|Vakaga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Vakaga.secret|Vakaga.secret]] 
+
+### #is_/same_as :: [Vakaga](/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Vakaga.md) 
+
+### #is_/same_as :: [Vakaga.public](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Vakaga.public.md) 
+
+### #is_/same_as :: [Vakaga.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Vakaga.internal.md) 
+
+### #is_/same_as :: [Vakaga.protect](/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Vakaga.protect.md) 
+
+### #is_/same_as :: [Vakaga.private](/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Vakaga.private.md) 
+
+### #is_/same_as :: [Vakaga.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Vakaga.personal.md) 
+
+### #is_/same_as :: [Vakaga.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Vakaga.secret.md)
 

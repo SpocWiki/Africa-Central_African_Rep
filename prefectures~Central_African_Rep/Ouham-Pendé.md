@@ -40,11 +40,18 @@ markerFolder: ./Ouham-Pendé/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Central_African_Rep/Counties/Ouham-Pendé|Ouham-Pendé]] 
-- [[../../../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Ouham-Pendé.public|Ouham-Pendé.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Ouham-Pendé.internal|Ouham-Pendé.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Ouham-Pendé.protect|Ouham-Pendé.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Ouham-Pendé.private|Ouham-Pendé.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Ouham-Pendé.personal|Ouham-Pendé.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Ouham-Pendé.secret|Ouham-Pendé.secret]] 
+
+### #is_/same_as :: [Ouham-Pendé](/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham-Pendé.md) 
+
+### #is_/same_as :: [Ouham-Pendé.public](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham-Pendé.public.md) 
+
+### #is_/same_as :: [Ouham-Pendé.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham-Pendé.internal.md) 
+
+### #is_/same_as :: [Ouham-Pendé.protect](/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham-Pendé.protect.md) 
+
+### #is_/same_as :: [Ouham-Pendé.private](/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham-Pendé.private.md) 
+
+### #is_/same_as :: [Ouham-Pendé.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham-Pendé.personal.md) 
+
+### #is_/same_as :: [Ouham-Pendé.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham-Pendé.secret.md)
 

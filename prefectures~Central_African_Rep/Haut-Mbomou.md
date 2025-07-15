@@ -40,11 +40,18 @@ markerFolder: ./Haut-Mbomou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Central_African_Rep/Counties/Haut-Mbomou|Haut-Mbomou]] 
-- [[../../../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Haut-Mbomou.public|Haut-Mbomou.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Haut-Mbomou.internal|Haut-Mbomou.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Haut-Mbomou.protect|Haut-Mbomou.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Haut-Mbomou.private|Haut-Mbomou.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Haut-Mbomou.personal|Haut-Mbomou.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Haut-Mbomou.secret|Haut-Mbomou.secret]] 
+
+### #is_/same_as :: [Haut-Mbomou](/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Haut-Mbomou.md) 
+
+### #is_/same_as :: [Haut-Mbomou.public](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Haut-Mbomou.public.md) 
+
+### #is_/same_as :: [Haut-Mbomou.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Haut-Mbomou.internal.md) 
+
+### #is_/same_as :: [Haut-Mbomou.protect](/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Haut-Mbomou.protect.md) 
+
+### #is_/same_as :: [Haut-Mbomou.private](/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Haut-Mbomou.private.md) 
+
+### #is_/same_as :: [Haut-Mbomou.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Haut-Mbomou.personal.md) 
+
+### #is_/same_as :: [Haut-Mbomou.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Haut-Mbomou.secret.md)
 

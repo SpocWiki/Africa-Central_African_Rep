@@ -40,11 +40,18 @@ markerFolder: ./Nana-Grébizi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Grébizi|Nana-Grébizi]] 
-- [[../../../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Grébizi.public|Nana-Grébizi.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Grébizi.internal|Nana-Grébizi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Grébizi.protect|Nana-Grébizi.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Grébizi.private|Nana-Grébizi.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Grébizi.personal|Nana-Grébizi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Grébizi.secret|Nana-Grébizi.secret]] 
+
+### #is_/same_as :: [Nana-Grébizi](/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Grébizi.md) 
+
+### #is_/same_as :: [Nana-Grébizi.public](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Grébizi.public.md) 
+
+### #is_/same_as :: [Nana-Grébizi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Grébizi.internal.md) 
+
+### #is_/same_as :: [Nana-Grébizi.protect](/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Grébizi.protect.md) 
+
+### #is_/same_as :: [Nana-Grébizi.private](/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Grébizi.private.md) 
+
+### #is_/same_as :: [Nana-Grébizi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Grébizi.personal.md) 
+
+### #is_/same_as :: [Nana-Grébizi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Grébizi.secret.md)
 

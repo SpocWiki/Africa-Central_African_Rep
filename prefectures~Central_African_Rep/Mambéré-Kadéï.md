@@ -40,11 +40,18 @@ markerFolder: ./Mambéré-Kadéï/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Central_African_Rep/Counties/Mambéré-Kadéï|Mambéré-Kadéï]] 
-- [[../../../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Mambéré-Kadéï.public|Mambéré-Kadéï.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Mambéré-Kadéï.internal|Mambéré-Kadéï.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Mambéré-Kadéï.protect|Mambéré-Kadéï.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Mambéré-Kadéï.private|Mambéré-Kadéï.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Mambéré-Kadéï.personal|Mambéré-Kadéï.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Mambéré-Kadéï.secret|Mambéré-Kadéï.secret]] 
+
+### #is_/same_as :: [Mambéré-Kadéï](/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Mambéré-Kadéï.md) 
+
+### #is_/same_as :: [Mambéré-Kadéï.public](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Mambéré-Kadéï.public.md) 
+
+### #is_/same_as :: [Mambéré-Kadéï.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Mambéré-Kadéï.internal.md) 
+
+### #is_/same_as :: [Mambéré-Kadéï.protect](/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Mambéré-Kadéï.protect.md) 
+
+### #is_/same_as :: [Mambéré-Kadéï.private](/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Mambéré-Kadéï.private.md) 
+
+### #is_/same_as :: [Mambéré-Kadéï.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Mambéré-Kadéï.personal.md) 
+
+### #is_/same_as :: [Mambéré-Kadéï.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Mambéré-Kadéï.secret.md)
 

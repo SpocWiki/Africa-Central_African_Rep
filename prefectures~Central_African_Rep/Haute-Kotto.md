@@ -40,11 +40,18 @@ markerFolder: ./Haute-Kotto/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Central_African_Rep/Counties/Haute-Kotto|Haute-Kotto]] 
-- [[../../../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Haute-Kotto.public|Haute-Kotto.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Haute-Kotto.internal|Haute-Kotto.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Haute-Kotto.protect|Haute-Kotto.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Haute-Kotto.private|Haute-Kotto.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Haute-Kotto.personal|Haute-Kotto.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Haute-Kotto.secret|Haute-Kotto.secret]] 
+
+### #is_/same_as :: [Haute-Kotto](/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Haute-Kotto.md) 
+
+### #is_/same_as :: [Haute-Kotto.public](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Haute-Kotto.public.md) 
+
+### #is_/same_as :: [Haute-Kotto.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Haute-Kotto.internal.md) 
+
+### #is_/same_as :: [Haute-Kotto.protect](/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Haute-Kotto.protect.md) 
+
+### #is_/same_as :: [Haute-Kotto.private](/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Haute-Kotto.private.md) 
+
+### #is_/same_as :: [Haute-Kotto.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Haute-Kotto.personal.md) 
+
+### #is_/same_as :: [Haute-Kotto.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Haute-Kotto.secret.md)
 

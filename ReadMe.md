@@ -37,10 +37,4 @@ Capital :: [[Bangui]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Central_African_Rep|Central_African_Rep]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~Central/Central_African_Rep.internal|Central_African_Rep.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~Central/Central_African_Rep.protect|Central_African_Rep.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~Central/Central_African_Rep.private|Central_African_Rep.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~Central/Central_African_Rep.personal|Central_African_Rep.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~Central/Central_African_Rep.secret|Central_African_Rep.secret]] 
+

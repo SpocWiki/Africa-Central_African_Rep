@@ -40,11 +40,18 @@ markerFolder: ./Nana-Mambéré/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Mambéré|Nana-Mambéré]] 
-- [[../../../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Mambéré.public|Nana-Mambéré.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Mambéré.internal|Nana-Mambéré.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Mambéré.protect|Nana-Mambéré.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Mambéré.private|Nana-Mambéré.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Mambéré.personal|Nana-Mambéré.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Nana-Mambéré.secret|Nana-Mambéré.secret]] 
+
+### #is_/same_as :: [Nana-Mambéré](/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Mambéré.md) 
+
+### #is_/same_as :: [Nana-Mambéré.public](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Mambéré.public.md) 
+
+### #is_/same_as :: [Nana-Mambéré.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Mambéré.internal.md) 
+
+### #is_/same_as :: [Nana-Mambéré.protect](/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Mambéré.protect.md) 
+
+### #is_/same_as :: [Nana-Mambéré.private](/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Mambéré.private.md) 
+
+### #is_/same_as :: [Nana-Mambéré.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Mambéré.personal.md) 
+
+### #is_/same_as :: [Nana-Mambéré.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Mambéré.secret.md)
 

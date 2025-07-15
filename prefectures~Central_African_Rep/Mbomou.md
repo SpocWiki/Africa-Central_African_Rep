@@ -40,11 +40,18 @@ markerFolder: ./Mbomou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou|Mbomou]] 
-- [[../../../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.public|Mbomou.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.internal|Mbomou.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.protect|Mbomou.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.private|Mbomou.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.personal|Mbomou.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Mbomou.secret|Mbomou.secret]] 
+
+### #is_/same_as :: [Mbomou](/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Mbomou.md) 
+
+### #is_/same_as :: [Mbomou.public](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Mbomou.public.md) 
+
+### #is_/same_as :: [Mbomou.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Mbomou.internal.md) 
+
+### #is_/same_as :: [Mbomou.protect](/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Mbomou.protect.md) 
+
+### #is_/same_as :: [Mbomou.private](/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Mbomou.private.md) 
+
+### #is_/same_as :: [Mbomou.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Mbomou.personal.md) 
+
+### #is_/same_as :: [Mbomou.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Mbomou.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Basse-Kotto/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Central_African_Rep/Counties/Basse-Kotto|Basse-Kotto]] 
-- [[../../../../../../_public/geo/Continent/Africa/Central_African_Rep/Counties/Basse-Kotto.public|Basse-Kotto.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Central_African_Rep/Counties/Basse-Kotto.internal|Basse-Kotto.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Central_African_Rep/Counties/Basse-Kotto.protect|Basse-Kotto.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Central_African_Rep/Counties/Basse-Kotto.private|Basse-Kotto.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Central_African_Rep/Counties/Basse-Kotto.personal|Basse-Kotto.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Central_African_Rep/Counties/Basse-Kotto.secret|Basse-Kotto.secret]] 
+
+### #is_/same_as :: [Basse-Kotto](/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Basse-Kotto.md) 
+
+### #is_/same_as :: [Basse-Kotto.public](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Basse-Kotto.public.md) 
+
+### #is_/same_as :: [Basse-Kotto.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Basse-Kotto.internal.md) 
+
+### #is_/same_as :: [Basse-Kotto.protect](/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Basse-Kotto.protect.md) 
+
+### #is_/same_as :: [Basse-Kotto.private](/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Basse-Kotto.private.md) 
+
+### #is_/same_as :: [Basse-Kotto.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Basse-Kotto.personal.md) 
+
+### #is_/same_as :: [Basse-Kotto.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Basse-Kotto.secret.md)
 
