@@ -40,17 +40,17 @@ markerFolder: ./Ombella-M'Poko/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ombella-M'Poko](/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ombella-M'Poko.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ombella-M'Poko|Ombella-M'Poko]] 
 
-### #is_/same_as :: [Ombella-M'Poko.public](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ombella-M'Poko.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ombella-M'Poko.public|Ombella-M'Poko.public]] 
 
-### #is_/same_as :: [Ombella-M'Poko.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ombella-M'Poko.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ombella-M'Poko.internal|Ombella-M'Poko.internal]] 
 
-### #is_/same_as :: [Ombella-M'Poko.protect](/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ombella-M'Poko.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ombella-M'Poko.protect|Ombella-M'Poko.protect]] 
 
-### #is_/same_as :: [Ombella-M'Poko.private](/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ombella-M'Poko.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ombella-M'Poko.private|Ombella-M'Poko.private]] 
 
-### #is_/same_as :: [Ombella-M'Poko.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ombella-M'Poko.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ombella-M'Poko.personal|Ombella-M'Poko.personal]] 
 
-### #is_/same_as :: [Ombella-M'Poko.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ombella-M'Poko.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ombella-M'Poko.secret|Ombella-M'Poko.secret]] 
 

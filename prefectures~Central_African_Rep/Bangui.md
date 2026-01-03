@@ -40,17 +40,17 @@ markerFolder: ./Bangui/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bangui](/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bangui.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bangui|Bangui]] 
 
-### #is_/same_as :: [Bangui.public](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bangui.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bangui.public|Bangui.public]] 
 
-### #is_/same_as :: [Bangui.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bangui.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bangui.internal|Bangui.internal]] 
 
-### #is_/same_as :: [Bangui.protect](/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bangui.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bangui.protect|Bangui.protect]] 
 
-### #is_/same_as :: [Bangui.private](/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bangui.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bangui.private|Bangui.private]] 
 
-### #is_/same_as :: [Bangui.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bangui.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bangui.personal|Bangui.personal]] 
 
-### #is_/same_as :: [Bangui.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bangui.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bangui.secret|Bangui.secret]] 
 

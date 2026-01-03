@@ -40,17 +40,17 @@ markerFolder: ./Ouham/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ouham](/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham|Ouham]] 
 
-### #is_/same_as :: [Ouham.public](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham.public|Ouham.public]] 
 
-### #is_/same_as :: [Ouham.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham.internal|Ouham.internal]] 
 
-### #is_/same_as :: [Ouham.protect](/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham.protect|Ouham.protect]] 
 
-### #is_/same_as :: [Ouham.private](/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham.private|Ouham.private]] 
 
-### #is_/same_as :: [Ouham.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham.personal|Ouham.personal]] 
 
-### #is_/same_as :: [Ouham.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham.secret|Ouham.secret]] 
 

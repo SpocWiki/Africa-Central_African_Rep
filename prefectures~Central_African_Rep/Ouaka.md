@@ -40,17 +40,17 @@ markerFolder: ./Ouaka/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ouaka](/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouaka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouaka|Ouaka]] 
 
-### #is_/same_as :: [Ouaka.public](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouaka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouaka.public|Ouaka.public]] 
 
-### #is_/same_as :: [Ouaka.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouaka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouaka.internal|Ouaka.internal]] 
 
-### #is_/same_as :: [Ouaka.protect](/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouaka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouaka.protect|Ouaka.protect]] 
 
-### #is_/same_as :: [Ouaka.private](/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouaka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouaka.private|Ouaka.private]] 
 
-### #is_/same_as :: [Ouaka.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouaka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouaka.personal|Ouaka.personal]] 
 
-### #is_/same_as :: [Ouaka.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouaka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouaka.secret|Ouaka.secret]] 
 

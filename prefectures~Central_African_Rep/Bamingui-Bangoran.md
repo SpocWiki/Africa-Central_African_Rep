@@ -40,17 +40,17 @@ markerFolder: ./Bamingui-Bangoran/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bamingui-Bangoran](/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bamingui-Bangoran.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bamingui-Bangoran|Bamingui-Bangoran]] 
 
-### #is_/same_as :: [Bamingui-Bangoran.public](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bamingui-Bangoran.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bamingui-Bangoran.public|Bamingui-Bangoran.public]] 
 
-### #is_/same_as :: [Bamingui-Bangoran.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bamingui-Bangoran.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bamingui-Bangoran.internal|Bamingui-Bangoran.internal]] 
 
-### #is_/same_as :: [Bamingui-Bangoran.protect](/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bamingui-Bangoran.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bamingui-Bangoran.protect|Bamingui-Bangoran.protect]] 
 
-### #is_/same_as :: [Bamingui-Bangoran.private](/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bamingui-Bangoran.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bamingui-Bangoran.private|Bamingui-Bangoran.private]] 
 
-### #is_/same_as :: [Bamingui-Bangoran.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bamingui-Bangoran.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bamingui-Bangoran.personal|Bamingui-Bangoran.personal]] 
 
-### #is_/same_as :: [Bamingui-Bangoran.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bamingui-Bangoran.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Bamingui-Bangoran.secret|Bamingui-Bangoran.secret]] 
 

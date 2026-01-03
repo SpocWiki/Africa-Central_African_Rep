@@ -40,17 +40,17 @@ markerFolder: ./Ouham-Pendé/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ouham-Pendé](/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham-Pendé.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham-Pendé|Ouham-Pendé]] 
 
-### #is_/same_as :: [Ouham-Pendé.public](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham-Pendé.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham-Pendé.public|Ouham-Pendé.public]] 
 
-### #is_/same_as :: [Ouham-Pendé.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham-Pendé.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham-Pendé.internal|Ouham-Pendé.internal]] 
 
-### #is_/same_as :: [Ouham-Pendé.protect](/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham-Pendé.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham-Pendé.protect|Ouham-Pendé.protect]] 
 
-### #is_/same_as :: [Ouham-Pendé.private](/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham-Pendé.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham-Pendé.private|Ouham-Pendé.private]] 
 
-### #is_/same_as :: [Ouham-Pendé.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham-Pendé.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham-Pendé.personal|Ouham-Pendé.personal]] 
 
-### #is_/same_as :: [Ouham-Pendé.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham-Pendé.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Ouham-Pendé.secret|Ouham-Pendé.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Sangha-Mbaéré/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sangha-Mbaéré](/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Sangha-Mbaéré.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Sangha-Mbaéré|Sangha-Mbaéré]] 
 
-### #is_/same_as :: [Sangha-Mbaéré.public](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Sangha-Mbaéré.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Sangha-Mbaéré.public|Sangha-Mbaéré.public]] 
 
-### #is_/same_as :: [Sangha-Mbaéré.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Sangha-Mbaéré.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Sangha-Mbaéré.internal|Sangha-Mbaéré.internal]] 
 
-### #is_/same_as :: [Sangha-Mbaéré.protect](/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Sangha-Mbaéré.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Sangha-Mbaéré.protect|Sangha-Mbaéré.protect]] 
 
-### #is_/same_as :: [Sangha-Mbaéré.private](/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Sangha-Mbaéré.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Sangha-Mbaéré.private|Sangha-Mbaéré.private]] 
 
-### #is_/same_as :: [Sangha-Mbaéré.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Sangha-Mbaéré.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Sangha-Mbaéré.personal|Sangha-Mbaéré.personal]] 
 
-### #is_/same_as :: [Sangha-Mbaéré.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Sangha-Mbaéré.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Sangha-Mbaéré.secret|Sangha-Mbaéré.secret]] 
 

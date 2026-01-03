@@ -40,17 +40,17 @@ markerFolder: ./Nana-Mambéré/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nana-Mambéré](/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Mambéré.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Mambéré|Nana-Mambéré]] 
 
-### #is_/same_as :: [Nana-Mambéré.public](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Mambéré.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Mambéré.public|Nana-Mambéré.public]] 
 
-### #is_/same_as :: [Nana-Mambéré.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Mambéré.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Mambéré.internal|Nana-Mambéré.internal]] 
 
-### #is_/same_as :: [Nana-Mambéré.protect](/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Mambéré.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Mambéré.protect|Nana-Mambéré.protect]] 
 
-### #is_/same_as :: [Nana-Mambéré.private](/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Mambéré.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Mambéré.private|Nana-Mambéré.private]] 
 
-### #is_/same_as :: [Nana-Mambéré.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Mambéré.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Mambéré.personal|Nana-Mambéré.personal]] 
 
-### #is_/same_as :: [Nana-Mambéré.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Mambéré.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep/prefectures~Central_African_Rep/Nana-Mambéré.secret|Nana-Mambéré.secret]] 
 
