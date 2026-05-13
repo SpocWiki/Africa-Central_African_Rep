@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Haut-Mbomou/
 markerFolder: ./Haut-Mbomou/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

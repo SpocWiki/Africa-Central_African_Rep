@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Basse-Kotto/
 markerFolder: ./Basse-Kotto/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

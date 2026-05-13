@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Bamingui-Bangoran/
 markerFolder: ./Bamingui-Bangoran/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ombella-M'Poko/
 markerFolder: ./Ombella-M'Poko/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

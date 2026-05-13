@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Haute-Kotto/
 markerFolder: ./Haute-Kotto/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

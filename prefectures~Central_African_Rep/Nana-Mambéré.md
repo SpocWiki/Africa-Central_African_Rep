@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Nana-Mambéré/
 markerFolder: ./Nana-Mambéré/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

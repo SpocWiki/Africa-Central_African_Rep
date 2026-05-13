@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Nana-Grébizi/
 markerFolder: ./Nana-Grébizi/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
