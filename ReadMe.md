@@ -283,7 +283,7 @@ dv_has_:
     code_repository: https://github.com/SpocWiki/Africa-Central_African_Rep
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Central_African_Republic,929|WD~Central_African_Republic,929]]"
+    - "[[../../../../../WikiData/WD~Central_African_Republic,929|WD~Central_African_Republic,929]]"
     - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep|Central_African_Rep]]"
     - "[[/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep.public|Central_African_Rep.public]]"
     - "[[/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep.internal|Central_African_Rep.internal]]"
@@ -297,17 +297,17 @@ dv_has_name_en: Central African Rep.
 dv_has_name_de: Zentralafrikanische Republik
 dv_Area-Total: 622984
 dv_Area-Land: 622980
-dv_has_place_continent: "[[../../Africa|Africa]]"
+dv_has_place_continent: "[[../../../Africa|Africa]]"
 dv_VehicleCode: RCA
 dv_Capital: "[[Bangui]]"
 dv_Alcohol-l: 3.4
 dv_Language-Id: 496
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 18.5833
 dv_has_place_latitude: 4.36667
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Central_African_Rep
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Central_African_Republic,929|WD~Central_African_Republic,929]]"
+  - "[[../../../../../WikiData/WD~Central_African_Republic,929|WD~Central_African_Republic,929]]"
   - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Central_African_Rep|Central_African_Rep]]"
   - "[[/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep.public|Central_African_Rep.public]]"
   - "[[/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep.internal|Central_African_Rep.internal]]"
@@ -945,7 +945,7 @@ hashtag_: CentralAfricanRepublic
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Central_African_Rep/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 is_a = `=this.dv_is_a_`
 
@@ -974,7 +974,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Central-african-republic.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Central-african-republic.mp3|Anthem-Central-african-republic.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Central-african-republic.mp3|Anthem-Central-african-republic.mp3]]
 ![[Flag_of_Central-african-republic.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
